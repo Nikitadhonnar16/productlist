@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/productlist/static/css/main.cf8cdb30.css",
+    "main.js": "/productlist/static/js/main.cc867e62.js",
+    "static/js/453.b8162820.chunk.js": "/productlist/static/js/453.b8162820.chunk.js",
+    "static/media/lighting.avif": "/productlist/static/media/lighting.b89b9c2bc78a3a7f4905.avif",
+    "static/media/toy.jpeg": "/productlist/static/media/toy.99e273684aef1c45fe0a.jpeg",
+    "static/media/plant.webp": "/productlist/static/media/plant.624f2c845e4612de7555.webp",
+    "static/media/sofa.avif": "/productlist/static/media/sofa.e09cb651f4a0d0423c1f.avif",
+    "static/media/bath.avif": "/productlist/static/media/bath.4d8fcf1106252073ecbe.avif",
+    "static/media/abc.jpg": "/productlist/static/media/abc.3fd8d0debfea67250faa.jpg",
+    "index.html": "/productlist/index.html",
+    "main.cf8cdb30.css.map": "/productlist/static/css/main.cf8cdb30.css.map",
+    "main.cc867e62.js.map": "/productlist/static/js/main.cc867e62.js.map",
+    "453.b8162820.chunk.js.map": "/productlist/static/js/453.b8162820.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf8cdb30.css",
+    "static/js/main.cc867e62.js"
+  ]
+}
