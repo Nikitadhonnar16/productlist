@@ -4,8 +4,8 @@
 
 In this project, I have created ProductListing Page and added the Filter Functionalities.
 
-![](https://github.com/Nikitadhonnar16/productList/blob/main/images/desktop_view.png)
-![](https://github.com/Nikitadhonnar16/productList/blob/main/images/mobile_view.png)
+![](https://github.com/Nikitadhonnar16/productlist/blob/master/images/desktop_view.png)
+![](https://github.com/Nikitadhonnar16/productlist/blob/master/images/mobile_view.png)
 
 ## To start a project
 
