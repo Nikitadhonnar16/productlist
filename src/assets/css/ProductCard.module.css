@@ -1,0 +1,58 @@
+.card {
+  border-radius: 16px;
+  background-color: rgba(255, 255, 255, 1);
+  height: 400px;
+}
+.card-img-top {
+  height: 180px;
+  width: 100%;
+}
+/* .card:hover .cardImgTop {
+  transform: scale(1.2);
+  transition: linear;
+  -webkit-transform: scale(1.4);
+  -moz-transform: scale(1.4);
+  -ms-transform: scale(1.4);
+  -o-transform: scale(1.4);
+} */
+.card:hover .cardImgTop {
+  transform: scale(1.2);
+  transition: transform 0.5s linear;
+  -webkit-transform: scale(1.2);
+  -webkit-transition: -webkit-transform 0.5s linear;
+  -moz-transform: scale(1.2);
+  -moz-transition: -moz-transform 0.5s linear;
+  -ms-transform: scale(1.2);
+  -ms-transition: -ms-transform 0.5s linear;
+  -o-transform: scale(1.2);
+  -o-transition: -o-transform 0.5s linear;
+}
+
+.card-body {
+  padding: 16px;
+}
+.card .btn {
+  border-radius: 13px;
+  padding: 6px 12px;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 1);
+  cursor: pointer;
+  -webkit-border-radius: 20x;
+  -moz-border-radius: 20x;
+  -ms-border-radius: 20x;
+  -o-border-radius: 20x;
+}
+.card .btn:hover {
+  background-color: #05e094 !important;
+  color: black !important;
+  border-color: black !important;
+}
+.lease_starts {
+  font-size: 14px !important;
+}
+
+.card:hover .btn {
+  background-color: #05e094 !important;
+  color: black !important;
+  border-color: black !important;
+}

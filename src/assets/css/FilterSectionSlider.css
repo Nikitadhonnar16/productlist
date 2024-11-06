@@ -1,0 +1,17 @@
+@media (min-width: 1200px) {
+  .filter-options-container {
+    flex-wrap: nowrap !important;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .filter-options-container {
+    flex-wrap: wrap !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .FilterOptions {
+    margin-top: 15px;
+  }
+}
